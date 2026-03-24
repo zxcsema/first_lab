@@ -21,6 +21,7 @@ public class Reader {
         }
     }
 
+
     public static BigDecimal readBD(Scanner sc, String m) {
         while (true) {
             try {

@@ -47,6 +47,7 @@ public class Dominance {
             columnOrder[i] = tmp;
         }
         return false;
+
     }
 
     public static void swapCols(BigDecimal[][] A, int i, int j) {

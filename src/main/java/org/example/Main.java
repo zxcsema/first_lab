@@ -86,6 +86,7 @@ public class Main {
         return r;
     }
 
+
     public static BigDecimal matrixNorm(BigDecimal[][] A) {
         BigDecimal max = BigDecimal.ZERO;
         for (BigDecimal[] row : A) {
